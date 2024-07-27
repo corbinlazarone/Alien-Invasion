@@ -4,10 +4,10 @@
 
 # Game Controls
 
-Arrow Right - move ship right 
-Arrow Left - move ship left
-Space Bar - fire bullets
-Q key down - quit game
+- Move ship right (Arrow Right)
+- Move ship left (Arrow Left)
+- Fire bullets (Space Bar)
+- quit game (Q Key Down)
 
 # Installation
 
